@@ -428,7 +428,7 @@
                     style="background-color: #A6ABBD; !important; color: #ffffffb3;"
                     class="text-left"
                   >
-                    STI
+                    Status
                   </th>
                 </tr>
               </thead>
